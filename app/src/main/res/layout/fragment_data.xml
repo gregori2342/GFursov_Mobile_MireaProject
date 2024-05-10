@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.DataFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <TextView
+        android:id="@+id/textview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Морская оса знаменита своей способностью наносить ожоги; щупальца животного сплошь покрыты стрекательными клетками (нематоцитами), которые содержат один из самых сильных ядов на планете. Ожоги кубомедузы вызывают мучительную боль, а силы токсина достаточно, чтобы убить 60 человек за три минуты. Как полагают, за последние 100 лет ожогами кубомедузы были вызваны до 100 смертей. В совокупности это служит основанием для широко распространённого мнения, согласно которому это самая ядовитая и самая опасная медуза в Мировом океане, а возможно, и самое опасное животное во всём мире."
+
+        android:textColor="#6200EE"
+        android:textSize="24sp" />
+
+
+</FrameLayout>
